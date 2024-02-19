@@ -2,6 +2,12 @@
 
 >Author:Naup
 
+```command
+git clone https://github.com/Naupjjin/PHP-Filter-Chain-tools.git
+cd PHP-Filter-Chain-tools/
+python3 main.py
+```
+
 ![image](https://github.com/Naupjjin/PHP-Filter-Chain-tools/assets/96978334/964cdfb8-5045-47be-8941-f6ccd415c86a)
 
 可以輸入你要注入php filter chain payload的網址
