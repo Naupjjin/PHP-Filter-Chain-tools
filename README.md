@@ -2,11 +2,14 @@
 
 >Author:Naup
 
+### 下載方法
+
 ```command
 git clone https://github.com/Naupjjin/PHP-Filter-Chain-tools.git
 cd PHP-Filter-Chain-tools/
 python3 main.py
 ```
+### 使用方法
 
 ![image](https://github.com/Naupjjin/PHP-Filter-Chain-tools/assets/96978334/964cdfb8-5045-47be-8941-f6ccd415c86a)
 
